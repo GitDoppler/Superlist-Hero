@@ -1,4 +1,4 @@
-# PErsonal Project - Superlist Hero Recreation
+# Personal Project - Superlist Hero Recreation
 
 This is my recreation of the hero section of [Superlist](https://www.superlist.com/), done with basic HTML, CSS and JS. I tried my best to make it as simillar as possible. 
 
@@ -101,7 +101,6 @@ Users should be able to:
 
 #### The duality (Dark and Light)
     Just like the carousel, this had more than one iteration but only one was fully accomplishing its objective.
-
     For this, I used two divs (the "dark" div and the "light" div), the first one having a varied width based on the cursor position and the second one being permanently at width:100%. All of this was done using JS and CSS. 
 
 ```css
